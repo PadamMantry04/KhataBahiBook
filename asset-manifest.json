@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KhataBahiBook/static/css/main.e19e8732.css",
+    "main.js": "/KhataBahiBook/static/js/main.617ed111.js",
+    "static/js/453.fa501ce2.chunk.js": "/KhataBahiBook/static/js/453.fa501ce2.chunk.js",
+    "index.html": "/KhataBahiBook/index.html",
+    "main.e19e8732.css.map": "/KhataBahiBook/static/css/main.e19e8732.css.map",
+    "main.617ed111.js.map": "/KhataBahiBook/static/js/main.617ed111.js.map",
+    "453.fa501ce2.chunk.js.map": "/KhataBahiBook/static/js/453.fa501ce2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19e8732.css",
+    "static/js/main.617ed111.js"
+  ]
+}
